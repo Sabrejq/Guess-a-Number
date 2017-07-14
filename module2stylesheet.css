@@ -1,0 +1,43 @@
+@@font-face {
+  font-family: Pangolin;
+  src: url(Pangolin-Regular.woff);}
+body{
+  background-color: #909dd4;
+  font-family: Pangolin;
+  color:white;
+  text-align: center;
+
+}
+
+#myGuess{
+  text-indent: 50px;
+  font-family: Pangolin;
+  font-size: 13px;
+  height: 20px;
+  width: 300px;
+  border: 2px solid #300e42;
+  border-radius: 3px;
+}
+
+  #button1{
+    font-family: Pangolin;
+    font-size: 14px;
+    border: 1px solid #300e42;
+    color: white;
+    background-color: #8bb0c2;
+    padding: 5px 20px;
+    border-radius: 3px;}
+
+#button1:hover{
+    background: #486da4
+  }
+
+#h3one{
+  font-family: Pangolin;
+  text-align: center;
+  color: black;
+}
+
+.userInput{
+  text-align: center;
+  }​
